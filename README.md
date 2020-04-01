@@ -1,6 +1,6 @@
 
 
-                ## Operating-Systems-Projects  
+## Operating-Systems-Projects  
 2019-2020 Fall CSE333 - Operating Systems
 
 In this project, we are supposed to work three seperate assignments.
@@ -13,7 +13,7 @@ And for third project, a program that uses threads and synchronization to read f
 
 Project manuals and a detailed reports are also included on each project's folder.
 
-Mustafa Abdullah Hakkoz – 150117509
+Mustafa Abdullah Hakkoz – 150117509  
 Enes Garip – 150116034
 
 
