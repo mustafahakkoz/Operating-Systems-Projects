@@ -5,11 +5,11 @@
 
 In this project, we are supposed to work three seperate assignments.
 
-For first project, 5 practical Linux problem are solved.
+**For first project**, 5 practical **Linux problems** are solved.
 
-For second project, a basic command shell with several functionalities like processes, signals and I/O operations, is implemented 
+**For second project**, a basic **command shell** with several functionalities like **processes, signals and I/O operations**, is implemented. 
 
-And for third project, a program that uses threads and synchronization to read from a file, modify its contents and write to the same file, is implemented.
+**And for third project**, a program that uses **threads and synchronization** to read from a file, modify its contents and write to the same file, is implemented.
 
 Project manuals and a detailed reports are also included on each project's folder.
 
